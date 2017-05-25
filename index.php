@@ -48,6 +48,6 @@ if ($totEmp> 0) {
 ?>
 <hr />
 <h5><center>
-  <h2>Creado por Jonathan Lovera</h2>
+  <h2>Created by Jonathan Lovera</h2>
 </center></h5></body>
 </html>
