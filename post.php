@@ -1,5 +1,5 @@
 <?php
-include("connect.php");
+include("config.php");
 $postid = (int)trim($_GET['post']);
 $sql = "SELECT posts.ID as `id`,
 posts.title as `title`,
